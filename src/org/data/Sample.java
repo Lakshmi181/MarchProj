@@ -8,5 +8,8 @@ public class Sample {
 		
 		int b=20;
 		System.out.println(b);
+		
+		System.out.println("Success");
+		System.out.println("Well done");
 	}
 }
