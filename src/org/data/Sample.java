@@ -11,5 +11,15 @@ public class Sample {
 		
 		System.out.println("Success");
 		System.out.println("Well done");
+		
+
+		int c=a+b;
+		System.out.println(c);
+		
+	}
+	
+	public static void main(String[] args) {
+		
+		System.out.println("Done");
 	}
 }
