@@ -19,5 +19,8 @@ public class Sample {
 		System.out.println("Print 2");
 	}
 	
-	
+	private void print3() {
+		System.out.println("Print 3");
+	}
+
 }
