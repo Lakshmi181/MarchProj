@@ -11,5 +11,13 @@ public class Sample {
 		
 		System.out.println("Success");
 		System.out.println("Well done");
+		
 	}
+	
+	
+	private void print2() {
+		System.out.println("Print 2");
+	}
+	
+	
 }
